@@ -1,0 +1,23 @@
+theme                       = Subliminal
+
+custom-shader               = ./shaders/cursor_blaze.glsl
+
+macos-titlebar-style        = hidden
+
+font-family                 = Victor Mono Regular
+font-family-italic          = Victor Mono Italic
+font-size                   = 18
+
+background-opacity          = 0.8
+background-blur             = true
+
+cursor-color                = #57B35F
+cursor-style-blink          = true
+adjust-cursor-thickness     = 3
+
+bold-is-bright              = true
+window-padding-balance      = true
+window-padding-x            = 25
+
+link-url                    = true
+mouse-hide-while-typing     = true
