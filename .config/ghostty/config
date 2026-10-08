@@ -21,3 +21,8 @@ window-padding-x            = 25
 
 link-url                    = true
 mouse-hide-while-typing     = true
+
+keybind = ctrl+alt+l=resize_split:right,20
+keybind = ctrl+alt+h=resize_split:left,20
+keybind = ctrl+alt+k=resize_split:up,20
+keybind = ctrl+alt+j=resize_split:down,20
